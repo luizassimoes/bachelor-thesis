@@ -1,0 +1,38 @@
+
+Ping wird ausgefÅhrt fÅr 192.168.11.1 mit 32 Bytes Daten:
+Antwort von 192.168.11.1: Bytes=32 Zeit=146ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=34ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=31ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=37ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=35ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=29ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=30ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=29ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=20ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=32ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=25ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=33ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=24ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=31ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=30ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=27ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=33ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=30ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=28ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=30ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=29ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=26ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=28ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=30ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=26ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=32ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=28ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=20ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=27ms TTL=252
+Antwort von 192.168.11.1: Bytes=32 Zeit=21ms TTL=252
+
+Ping-Statistik fÅr 192.168.11.1:
+    Pakete: Gesendet = 30, Empfangen = 30, Verloren = 0
+    (0% Verlust),
+Ca. Zeitangaben in Millisek.:
+    Minimum = 20ms, Maximum = 146ms, Mittelwert = 32ms

@@ -1,0 +1,38 @@
+
+Ping wird ausgefÅhrt fÅr 172.16.16.2 mit 32 Bytes Daten:
+Antwort von 172.16.16.2: Bytes=32 Zeit=232ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=34ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=33ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=36ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=31ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=34ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=32ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=42ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=37ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=33ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=37ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=35ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=39ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=28ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=37ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=32ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=34ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=37ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=39ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=37ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=40ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=21ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=37ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=36ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=34ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=35ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=30ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=41ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=33ms TTL=62
+Antwort von 172.16.16.2: Bytes=32 Zeit=37ms TTL=62
+
+Ping-Statistik fÅr 172.16.16.2:
+    Pakete: Gesendet = 30, Empfangen = 30, Verloren = 0
+    (0% Verlust),
+Ca. Zeitangaben in Millisek.:
+    Minimum = 21ms, Maximum = 232ms, Mittelwert = 41ms
