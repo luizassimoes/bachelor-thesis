@@ -1,4 +1,4 @@
-# Validation of Remote-Control Use Cases for Construction and Mining Robots via 5G
+# Validation of remote-control use cases for construction and mining robots via 5G
 
 ### Bachelor Thesis
 
