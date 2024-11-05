@@ -1,4 +1,6 @@
-# bachelor-thesis
+# Validation of Remote-Control Use Cases for Construction and Mining Robots via 5G
+
+### Bachelor Thesis
 
 
 In this folder, you can see all the codes used to develop my Bachelor's Thesis. 
